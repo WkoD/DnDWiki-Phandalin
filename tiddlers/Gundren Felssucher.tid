@@ -1,7 +1,8 @@
 created: 20200830075940217
-modified: 20200830075949861
+modified: 20200902085635106
 tags: Person
 title: Gundren Felssucher
+tmap.edges: {"2fa25420-e3ab-4366-9c9c-0241ec933f4b":{"to":"30ea7c3f-ae37-497a-92b6-4c2f758d760b","type":"O_Anfuehrer"},"3227de70-1b2b-450f-b886-4598aa6c7924":{"to":"f34ae6cd-52f2-4da7-84c0-733fc6a19401","type":"unknown"}}
 tmap.id: cfef9c31-14ca-4180-ad3f-f48e6448240b
 type: text/vnd.tiddlywiki
 

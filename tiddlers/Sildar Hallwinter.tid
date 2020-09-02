@@ -1,7 +1,8 @@
 created: 20200830075916377
-modified: 20200830075937084
+modified: 20200902092949093
 tags: Person
 title: Sildar Hallwinter
+tmap.edges: {"d7e5f352-1da0-48b7-affd-120548605fc4":{"to":"30ea7c3f-ae37-497a-92b6-4c2f758d760b","type":"OP_Mitglied"},"264e9a52-1266-463f-b8cb-cdbbd79f1a9c":{"to":"d86408ec-4c4d-482a-9fa7-166327c95d1b","type":"unknown"},"3869f22f-8f1d-439e-b95f-da1465658c26":{"to":"50270684-59a0-488b-86f3-3a93cd1d0014","type":"OP_Mitglied"}}
 tmap.id: 3eff3641-3c2f-43dc-8e29-03d67d961322
 type: text/vnd.tiddlywiki
 

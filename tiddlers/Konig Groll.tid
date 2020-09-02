@@ -1,7 +1,8 @@
 created: 20200830075808065
-modified: 20200830075829227
+modified: 20200902085554254
 tags: Person
 title: König Groll
+tmap.edges: {"96d510b7-3f9e-4186-af87-3d6ebcc80063":{"to":"6a119ff1-66ea-4049-86b5-4393f4473cea","type":"O_Anfuehrer"},"fbeb4be3-a393-444b-b3fd-aae8c1a09343":{"to":"f34ae6cd-52f2-4da7-84c0-733fc6a19401","type":"unknown"}}
 tmap.id: d1abafd2-6613-4a14-9592-32cfd99065ef
 type: text/vnd.tiddlywiki
 

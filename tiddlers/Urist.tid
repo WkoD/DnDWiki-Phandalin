@@ -1,10 +1,11 @@
 bild: Urist Feuerhammer.jpeg
 caption: Urist Feuerhammer
 created: 20200830073959853
-modified: 20200830150719665
+modified: 20200902085320861
 spieler: Benjamin
 tags: Spieler
 title: Urist
+tmap.edges: {"e9b0d1fe-33db-4a2e-a4cb-8bb7b55de7ae":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"}}
 tmap.id: 51a8bd68-3465-4ac5-925c-0eaf6cb9341e
 type: text/vnd.tiddlywiki
 
