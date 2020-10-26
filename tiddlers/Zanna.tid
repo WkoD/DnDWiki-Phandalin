@@ -1,11 +1,11 @@
 bild: Zanna.jpeg
 caption: Zanna
 created: 20200830073741592
-modified: 20200902085313178
+modified: 20201026085842577
 spieler: Miri
 tags: Spieler
 title: Zanna
-tmap.edges: {"ef2cd968-3f10-4660-bf35-23fa7f8b4047":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"}}
+tmap.edges: {"ef2cd968-3f10-4660-bf35-23fa7f8b4047":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"ebbf41a0-c522-41c0-babd-d97439053c65":{"to":"680c74a6-ff6c-46d9-8320-67cd3d976d36","type":"OP_Mitglied"},"49964b46-f4a1-4928-91c9-129aebecdbb1":{"to":"50270684-59a0-488b-86f3-3a93cd1d0014","type":"OP_Mitglied"}}
 tmap.id: c5b6f137-4452-400e-8c89-969290dbb555
 type: text/vnd.tiddlywiki
 

@@ -1,11 +1,11 @@
 bild: Puchiichii.jpeg
 caption: Puchiichii
 created: 20200830073843988
-modified: 20200902085327744
+modified: 20201026085808163
 spieler: Kathrin
 tags: Spieler
 title: Puchiichii
-tmap.edges: {"5ec009f8-997f-454f-95f7-01dbaf575103":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"}}
+tmap.edges: {"5ec009f8-997f-454f-95f7-01dbaf575103":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"f0d96819-cf4f-409a-a51b-17ef3537e4b3":{"to":"c825364d-5c74-42f6-a0db-dd96b41b23d3","type":"OP_Mitglied"}}
 tmap.id: 2dbcfbc5-c972-42ca-87b7-df946c008d5e
 type: text/vnd.tiddlywiki
 

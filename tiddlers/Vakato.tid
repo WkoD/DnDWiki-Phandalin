@@ -2,11 +2,11 @@ bild: Vakato (m).jpg,Vakato (w).jpg
 caption: Vakato
 created: 20200830074044997
 datum: 1480
-modified: 20200902095854102
+modified: 20201026085759314
 spieler: Christopher
 tags: Spieler
 title: Vakato
-tmap.edges: {"a54cc8b2-2118-4ae3-a199-d03052e4a6e5":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"06508ae5-7553-4457-a678-0a1912de50de":{"to":"64db8ad5-4de0-4998-8554-77c06595e58c","type":"PP_Bund"}}
+tmap.edges: {"a54cc8b2-2118-4ae3-a199-d03052e4a6e5":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"06508ae5-7553-4457-a678-0a1912de50de":{"to":"64db8ad5-4de0-4998-8554-77c06595e58c","type":"PP_Bund"},"7774320a-10b7-4d54-8975-dbd1da758f24":{"to":"c825364d-5c74-42f6-a0db-dd96b41b23d3","type":"OP_Mitglied"}}
 tmap.id: 6d9d2efe-3f3f-4991-893f-c809191dda8c
 type: text/vnd.tiddlywiki
 

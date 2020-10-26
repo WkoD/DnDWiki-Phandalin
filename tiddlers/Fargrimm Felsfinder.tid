@@ -1,8 +1,8 @@
 created: 20200830080117730
-modified: 20200902095744455
+modified: 20201026090000098
 tags: Person
 title: Fargrimm Felsfinder
-tmap.edges: {"611ee84b-c24e-419d-815d-c352bbf6c143":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"}}
+tmap.edges: {"611ee84b-c24e-419d-815d-c352bbf6c143":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown_dashed"},"9984431f-06b4-4c50-a79e-95ec0f3f5859":{"to":"c825364d-5c74-42f6-a0db-dd96b41b23d3","type":"OP_Mitglied"},"9122c61a-d4d6-4b18-b2b7-fd8ba15e4777":{"to":"680c74a6-ff6c-46d9-8320-67cd3d976d36","type":"OP_Mitglied"}}
 tmap.id: 6d54b1fc-9401-4f15-801d-072959556540
 type: text/vnd.tiddlywiki
 
