@@ -1,11 +1,11 @@
 bild: Zanna.jpeg
 caption: Zanna
 created: 20200830073741592
-modified: 20201027081338917
+modified: 20210122133456668
 spieler: Miri
 tags: Spieler
 title: Zanna
-tmap.edges: {"ef2cd968-3f10-4660-bf35-23fa7f8b4047":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"ebbf41a0-c522-41c0-babd-d97439053c65":{"to":"680c74a6-ff6c-46d9-8320-67cd3d976d36","type":"OP_Mitglied"},"49964b46-f4a1-4928-91c9-129aebecdbb1":{"to":"50270684-59a0-488b-86f3-3a93cd1d0014","type":"OP_Mitglied"},"2d55611e-f3ca-4c12-a91d-26bd754acd56":{"to":"dfb4cdb4-f545-4340-97ba-aa0203f87871","type":"PP_Bund"}}
+tmap.edges: {"ef2cd968-3f10-4660-bf35-23fa7f8b4047":{"to":"48325664-8054-4826-a32a-22020c7790a7","type":"unknown"},"ebbf41a0-c522-41c0-babd-d97439053c65":{"to":"680c74a6-ff6c-46d9-8320-67cd3d976d36","type":"OP_Mitglied"},"49964b46-f4a1-4928-91c9-129aebecdbb1":{"to":"50270684-59a0-488b-86f3-3a93cd1d0014","type":"OP_Mitglied"},"2d55611e-f3ca-4c12-a91d-26bd754acd56":{"to":"dfb4cdb4-f545-4340-97ba-aa0203f87871","type":"PP_Bund"},"080b4990-9d86-4c12-96fa-a861cf32735c":{"to":"e9f02e7b-f3ec-4fb0-b711-8a00791acd5d","type":"OP_Mitglied"}}
 tmap.id: c5b6f137-4452-400e-8c89-969290dbb555
 type: text/vnd.tiddlywiki
 
