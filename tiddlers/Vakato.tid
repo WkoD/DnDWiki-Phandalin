@@ -2,7 +2,7 @@ bild: Vakato (m).jpg,Vakato (w).jpg
 caption: Vakato
 created: 20200830074044997
 datum: 1480
-modified: 20210122133503748
+modified: 20210215095029316
 spieler: Christopher
 tags: Spieler
 title: Vakato
@@ -13,3 +13,6 @@ type: text/vnd.tiddlywiki
 Ein Sorcerer, dessen Gestalt immer mehr zu der eines Drachen wird, während seine Zauberkräfte stetig steigen.
 
 Jahrelanger unbedarfter Konsum diverser Tinkturen und Tränke hat zu einer instabilen körperlichen Struktur geführt. Während einer langen Rast kann es so passieren, dass sich bestimmte körperliche Merkmale spontan ändern, wie zum Beispiel das Geschlecht. Trotz dieser Entwicklung hat Vakato seinen Drank, bunte Flüssigkeiten zu probieren nicht abgelegt.
+
+!!! Materialien
+{{Vakato/Materialien}}
